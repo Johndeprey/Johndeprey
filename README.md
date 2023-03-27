@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johndeprey
-- 👀 I’m interested in learning C++ MFC
-- 🌱 I’m currently learning C++ MFC
+- 👀 I’m interested in learning Python Tkinter
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Programming a game
 - 📫 How to reach me johndepreyyahoo.co.uk
 
